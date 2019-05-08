@@ -16,7 +16,7 @@ Here We implement three RL/IL algorithms: TRPO, PPO and GAIL.
 	+ Collect Expert Trajectories
 		+ Running: python train.py --als save --vv 1 -env_name HalfCheetah-v2 
 
-##References:
+## References:
 
 + Schulman, John, Levine, Sergey, Moritz, Philipp, Jordan, Michael I, and Abbeel, Pieter. Trust region policy optimization. In International Conference on Machine Learning (ICML), 2015a.
 
